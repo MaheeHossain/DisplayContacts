@@ -1,5 +1,5 @@
 **Mahee Hossain, 2021**
-# Resonate Solutions Q2
+# View Contacts
 
 ### About
 - View_Contacts is an application that allows a user to browse through their contact list
